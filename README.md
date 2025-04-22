@@ -1,5 +1,6 @@
 ## Hi there 👌!
 This is my name Filipi Laskoski
+I am a high school student at TDS
 <!--
 **Filipilaskoski/Filipilaskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
