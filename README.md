@@ -1,4 +1,4 @@
-## Hi there ▄︻デ══━一
+## Hi there 👌!
 
 <!--
 **Filipilaskoski/Filipilaskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
